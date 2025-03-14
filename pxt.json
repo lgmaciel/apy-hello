@@ -1,0 +1,29 @@
+{
+    "name": "apy-hello",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.61",
+        "tag": "v1.12.61",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/ca55e606e8e9dc22645e01ace221016fe52ca101",
+        "target": "1.12.61",
+        "pxt": "8.5.71",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
